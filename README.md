@@ -1,7 +1,7 @@
-Sistema de Notas — Atividade APS (Capítulo 5)
+Sistema de Notas — Atividade APS
 
 Integrantes
-Eduardo Bruno, Leticia Martins
+Eduardo Bruno, Leticia Martins,  Nathália Nogueira e Kellyane de Lima Caldas
 
 Como executar
 vai precisar de JDK 8 ou superior. Abrir o terminal nesta pasta e executar:
